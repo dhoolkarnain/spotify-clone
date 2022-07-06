@@ -3,7 +3,11 @@ import "./LeftMenu.css";
 import { FaSpotify, FaEllipsisH } from "react-icons/fa";
 import { BiSearchAlt } from "react-icons/bi";
 
-import Menu from "./MenuList/Menu/Menu";
+import Menu from "./MenuList/Menu";
+import { MenuList } from "./MenuList/MenuList";
+import MenuPlayList from "./MenuPlayList/MenuPlayList";
+import TrackList from "./TrackList/TrackList";
+// import PlayList from "./Playlist/Playlist";
 
 export default function LeftMenu() {
   return (
@@ -23,7 +27,9 @@ export default function LeftMenu() {
           <BiSearchAlt />
         </i>
       </div>
-      <Menu />
+      <Menu title={"Menu"} menuObject={MenuList} />
+      <MenuPlayList />
+      <TrackList />
     </div>
   );
 }
