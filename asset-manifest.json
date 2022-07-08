@@ -1,0 +1,19 @@
+{
+  "main.css": "/spotify-clone/static/css/main.b60d69b2.chunk.css",
+  "main.js": "/spotify-clone/static/js/main.7e57c0a5.chunk.js",
+  "main.js.map": "/spotify-clone/static/js/main.7e57c0a5.chunk.js.map",
+  "static/js/1.8f2f4211.chunk.js": "/spotify-clone/static/js/1.8f2f4211.chunk.js",
+  "static/js/1.8f2f4211.chunk.js.map": "/spotify-clone/static/js/1.8f2f4211.chunk.js.map",
+  "static/js/2.92b33a51.chunk.js": "/spotify-clone/static/js/2.92b33a51.chunk.js",
+  "static/js/2.92b33a51.chunk.js.map": "/spotify-clone/static/js/2.92b33a51.chunk.js.map",
+  "runtime~main.js": "/spotify-clone/static/js/runtime~main.5c939932.js",
+  "runtime~main.js.map": "/spotify-clone/static/js/runtime~main.5c939932.js.map",
+  "static/media/profile.jpg": "/spotify-clone/static/media/profile.d140e153.jpg",
+  "static/media/artist.jpg": "/spotify-clone/static/media/artist.d37d2ec4.jpg",
+  "static/media/track.png": "/spotify-clone/static/media/track.73027150.png",
+  "static/media/App.css": "/spotify-clone/static/media/background.91fc2549.jpg",
+  "static/css/main.b60d69b2.chunk.css.map": "/spotify-clone/static/css/main.b60d69b2.chunk.css.map",
+  "index.html": "/spotify-clone/index.html",
+  "precache-manifest.9030ab3b1e2cf70ee2e0afd7d95033d2.js": "/spotify-clone/precache-manifest.9030ab3b1e2cf70ee2e0afd7d95033d2.js",
+  "service-worker.js": "/spotify-clone/service-worker.js"
+}
